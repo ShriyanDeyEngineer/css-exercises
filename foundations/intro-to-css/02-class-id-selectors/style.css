@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.class-one, .cool-class
+{
+    background-color: pink;
+    font-family:'Verdana', DejaVu Sans, sans-serif;
+}
+
+#id-one
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.cool-class
+{
+    font-size: 24px;
+}
+
+#id-two
+{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
